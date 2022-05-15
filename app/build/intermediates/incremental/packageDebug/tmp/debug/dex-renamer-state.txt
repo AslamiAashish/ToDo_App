@@ -1,0 +1,4 @@
+#Sun May 15 10:32:21 NPT 2022
+base.0=/Users/aashishaslami/Downloads/Mobile App Development/TodoApp_main/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
